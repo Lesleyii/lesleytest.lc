@@ -23,4 +23,4 @@ require ("views/footer.php");
 
 ?>
 
-<p>Baran</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A voluptatibus minus quasi facilis, aliquid ratione molestias, autem natus molestiae, accusamus sit recusandae iure voluptas atque ipsam assumenda tenetur rerum repellendus?</p>
