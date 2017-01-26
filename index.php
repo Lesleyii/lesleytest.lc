@@ -21,5 +21,6 @@ else{
 
 require ("views/footer.php");
 
-
 ?>
+
+<p>Baran</p>
